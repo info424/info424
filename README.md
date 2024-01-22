@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=info424&label=Profile%20views&color=0e75b6&style=flat" alt="info424" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=info424" alt="info424" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=info424" alt="info424" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, Nuxt, Svelte, MongoDB**
 
