@@ -1,17 +1,18 @@
 # Hi there, I'm Info!
 
-I'm a passionate developer with experience in web development and Artificial Intelligence. My passion lies in crafting immersive and interactive experiences, both in gaming and on the web. I thrive on innovation and collaboration, always eager to explore new technologies and ideas. If you're interested in discussing potential projects, sharing ideas, or just having a friendly chat about technology, I'd love to hear from you!
+I'm a passionate developer with experience in ios + web development and Artificial Intelligence. My passion lies in crafting immersive and interactive experiences, both in websites and with the apps. I thrive on innovation and collaboration, always eager to explore new technologies and ideas. If you're interested in discussing potential projects, sharing ideas, or just having a friendly chat about technology, I'd love to hear from you!
 
 ## 📫 Contact Info
 - Email: [istunt3rro@gmail.com](mailto:istunt3rro@gmail.com)
 - Discord: `info424`
 
 ## 🛠️ Languages, Frameworks and Tools
+- Programming language expertise (Objective-C, Swift),
+- Experience with app development frameworks (RxSwift, UIKit),
+- Familiarity with Apple OS frameworks (Core Animation, Core Data, Core Graphics, Core Text)
 - JavaScript/TypeScript - [Node.js](https://nodejs.org/), [nightwatch.js](https://nightwatchjs.org/)
 - Cassandra - [Cassandra](https://cassandra.apache.org/_/index.html)
-- Python
 - Flutter - [Flutter](https://flutter.dev/)
-- C++
 - HTML
 - CSS - [Sass](https://sass-lang.com/), [Tailwind](https://tailwindcss.com/)
 - PHP
@@ -21,7 +22,7 @@ I'm a passionate developer with experience in web development and Artificial Int
 🤖 Assisting in a university research project focused on developing machine learning models for natural language processing, enhancing chatbot responsiveness and accuracy.
 🤖 Contributing to a team project on image recognition algorithms, aimed at improving real-time object detection for autonomous vehicles.
 
-### Web Developer (2021-Present)
-💻 Developing a responsive portfolio website for artists, featuring dynamic galleries and an e-commerce functionality for art sales.
-💻 Created a web-based interactive learning platform for programming beginners, incorporating interactive coding exercises and progress tracking.
-💻 Collaborating on a project to redesign and optimize a local non-profit organization's website, improving user experience and accessibility.
+### Ios Developer (2021-Present)
+📱 Developing a sleek iOS app for artists, featuring dynamic galleries and an in-app purchase system for art sales.
+📱 Developed an iOS app as a wallet extension.
+📱 Collaborated on a project to develop and optimize an iOS app for a local non-profit organization, enhancing user experience and ensuring accessibility.
