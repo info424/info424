@@ -22,6 +22,8 @@ I'm a passionate developer with experience in web development and Artificial Int
 
 ### QA Engineer (2022-2023)
 Previously worked upon the following IP's :
-[Avatar Frontiers of Pandora](https://www.ubisoft.com/en-gb/game/avatar/frontiers-of-pandora)
-[The Mageseeker](https://www.themageseeker.com)
-[Song Of Nunu](https://www.songofnunu.com)
+- [Avatar Frontiers of Pandora](https://www.ubisoft.com/en-gb/game/avatar/frontiers-of-pandora)
+- [The Mageseeker](https://www.themageseeker.com)
+- [Song Of Nunu](https://www.songofnunu.com)
+
+- https://rogojinidinstuf.ro - Reed Client Project made in WP
