@@ -8,22 +8,24 @@ I'm a passionate developer with experience in web development and Artificial Int
 
 ## 🛠️ Languages, Frameworks and Tools
 - JavaScript/TypeScript - [Node.js](https://nodejs.org/), [nightwatch.js](https://nightwatchjs.org/)
-- Python
+- Python - PyQt, Flask
 - Cassandra - [Cassandra](https://cassandra.apache.org/_/index.html)
-- Flutter - [Flutter](https://flutter.dev/)
 - HTML - [EJS](https://ejs.co/)
 - CSS - [Sass](https://sass-lang.com/), [Tailwind](https://tailwindcss.com/)
 - PHP - Laravel
+- SQL
 
 ## 💼 Work and Projects
-### Advanced AI and Machine Learning Engineer (2024-Present)
+### Advanced AI and Machine Learning Engineer (2023 Q4 - Present)
 🤖 Assisting in a university research project focused on developing machine learning models for natural language processing, enhancing chatbot responsiveness and accuracy.
 🤖 Contributing to a team project on image recognition algorithms, aimed at improving real-time object detection for autonomous vehicles.
 
-### QA Engineer (2022-2023)
+### QA Engineer (2022 Q3 - 2023 Q2)
 Previously worked upon the following IP's :
 - [Avatar Frontiers of Pandora](https://www.ubisoft.com/en-gb/game/avatar/frontiers-of-pandora)
 - [The Mageseeker](https://www.themageseeker.com)
 - [Song Of Nunu](https://www.songofnunu.com)
+  
+- Also helped with small issues [TutelQuest](https://alexejhero.itch.io/tutelquest)
 
-- https://rogojinidinstuf.ro - Reed Client Project made in WP
+- [Reed Client Project made in WP](https://rogojinidinstuf.ro)
