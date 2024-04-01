@@ -26,6 +26,6 @@ Previously worked upon the following IP's :
 - [The Mageseeker](https://www.themageseeker.com)
 - [Song Of Nunu](https://www.songofnunu.com)
   
-- Also helped with small issues [TutelQuest](https://alexejhero.itch.io/tutelquest)
+- Also helped on [TutelQuest](https://alexejhero.itch.io/tutelquest)
 
 - [Reed Client Project made in WP](https://rogojinidinstuf.ro)
