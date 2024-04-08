@@ -4,11 +4,11 @@ I'm a passionate developer with experience in web development and Artificial Int
 
 ## 📫 Contact Info
 - Email: [istunt3rro@gmail.com](mailto:istunt3rro@gmail.com)
-- Discord: `info424`
+- [Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)`info424`
 
 ## 🛠️ Languages, Frameworks and Tools
 - JavaScript/TypeScript - [Node.js](https://nodejs.org/), [nightwatch.js](https://nightwatchjs.org/)
-- Python - PyQt, Flask
+- Python - PyQt, [Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 - Cassandra - [Cassandra](https://cassandra.apache.org/_/index.html)
 - HTML - [EJS](https://ejs.co/)
 - CSS - [Sass](https://sass-lang.com/), [Tailwind](https://tailwindcss.com/)
