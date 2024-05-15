@@ -7,12 +7,11 @@ I'm a passionate developer with experience in web development and Artificial Int
 - Discord : info424
 
 ## 🛠️ Languages, Frameworks and Tools
-- JavaScript/TypeScript - [Node.js](https://nodejs.org/), [nightwatch.js](https://nightwatchjs.org/)
+- JavaScript/TypeScript - [Node.js](https://nodejs.org/), React & Angular
 - Python - PyQt, Flask
-- Cassandra - [Cassandra](https://cassandra.apache.org/_/index.html)
-- HTML - [EJS](https://ejs.co/)
-- CSS - [Sass](https://sass-lang.com/), [Tailwind](https://tailwindcss.com/)
-- PHP - Laravel
+- HTML5 - [EJS](https://ejs.co/)
+- CSS - [Tailwind](https://tailwindcss.com/) & Bootstrap
+- PHP - Laravel & Symfony
 - SQL
 
 ## 💼 Work and Projects
